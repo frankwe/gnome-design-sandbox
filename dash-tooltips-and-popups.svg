@@ -174,11 +174,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.189264"
-     inkscape:cx="482.34125"
-     inkscape:cy="317.84363"
+     inkscape:zoom="0.594632"
+     inkscape:cx="984.88974"
+     inkscape:cy="89.228037"
      inkscape:document-units="px"
-     inkscape:current-layer="svg3990"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="992"
@@ -204,7 +204,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
       </cc:Work>
@@ -228,15 +228,15 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(557.15729,459.05179)"
-     sodipodi:insensitive="true">
+     transform="translate(557.15729,459.05179)">
     <image
-       y="-459.05179"
-       x="-557.15729"
-       id="image4195"
-       xlink:href="file:///home/weld/repos/git/gnome-design-sandbox/overview.png"
+       sodipodi:absref="/home/weld/repos/git/gnome-design-sandbox/images/overview.png"
+       xlink:href="images/overview.png"
+       width="1680"
        height="1050"
-       width="1680" />
+       id="image4195"
+       x="-557.15729"
+       y="-459.05179" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.97186506;stroke-miterlimit:3.5;stroke-opacity:0;stroke-dasharray:none;display:inline;filter:url(#filter5017)"
        id="rect4971"
@@ -255,13 +255,14 @@
        height="1050"
        style="stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none" />
     <image
-       style="display:inline"
-       y="-459.05179"
-       x="-98.548027"
-       id="image4966"
-       xlink:href="file:///home/weld/repos/git/gnome-design-sandbox/toten-running.png"
+       sodipodi:absref="/home/weld/repos/git/gnome-design-sandbox/images/totem-running.png"
+       xlink:href="images/totem-running.png"
+       width="90"
        height="1050"
-       width="90" />
+       id="image4966"
+       x="-98.548027"
+       y="-459.05179"
+       style="display:inline" />
     <rect
        transform="matrix(1.058737,0,0,1,525.62592,32.297418)"
        y="-561.90894"
