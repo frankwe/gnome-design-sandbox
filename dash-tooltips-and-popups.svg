@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="964.6825"
+   height="635.68726"
+   id="svg3990"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="dash-tooltips-and-popups.svg"
+   inkscape:export-filename="/home/weld/repos/git/gnome-design-sandbox/dash-tooltips-and-popups.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   style="display:inline">
+  <defs
+     id="defs3992">
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotL"
+       style="overflow:visible">
+      <path
+         id="path5177"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none;marker-end:none"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       id="linearGradient4993">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="0"
+         id="stop4995" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop4997" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4985">
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="0"
+         id="stop4987" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4989" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4738-4">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4740-9" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4742-7" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4738-4"
+       id="radialGradient4862"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.65961965,0,-6.2142203e-8,0.00182811,-123.51696,-53.662457)"
+       cx="-398.1011"
+       cy="56.514931"
+       fx="-398.1011"
+       fy="56.514931"
+       r="134.49673" />
+    <filter
+       id="filter5017"
+       inkscape:label="Torn edges"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Displace the outside of shapes and pictures without altering their content"
+       height="1.4"
+       y="-0.2"
+       width="1.4"
+       x="-0.2"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence5019"
+         baseFrequency="0.037924865831842576"
+         numOctaves="5"
+         type="fractalNoise"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap5021"
+         in2="result91"
+         scale="25"
+         result="result5"
+         xChannelSelector="R"
+         in="SourceGraphic"
+         yChannelSelector="A" />
+      <feComposite
+         id="feComposite5023"
+         in2="result5"
+         in="SourceGraphic"
+         operator="atop" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4738-4"
+       id="radialGradient7323"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.34137,0,-1.2636932e-7,0.00371756,674.15269,-53.76924)"
+       cx="-398.1011"
+       cy="56.514931"
+       fx="-398.1011"
+       fy="56.514931"
+       r="134.49673" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4738-4"
+       id="radialGradient7346"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.34137,0,-1.2636932e-7,0.00371756,674.15269,-311.21364)"
+       cx="-398.1011"
+       cy="56.514931"
+       fx="-398.1011"
+       fy="56.514931"
+       r="134.49673" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4738-4"
+       id="radialGradient7404"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.68283737,0,-6.4329524e-8,0.00371756,-119.23528,-53.76924)"
+       cx="-398.1011"
+       cy="56.514931"
+       fx="-398.1011"
+       fy="56.514931"
+       r="134.49673" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4738-4"
+       id="radialGradient7408"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.34137,0,-1.2636932e-7,0.00371756,674.15269,-244.89583)"
+       cx="-398.1011"
+       cy="56.514931"
+       fx="-398.1011"
+       fy="56.514931"
+       r="134.49673" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4738-4"
+       id="radialGradient7412"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.34137,0,-1.2636932e-7,0.00371756,674.15269,-309.12693)"
+       cx="-398.1011"
+       cy="56.514931"
+       fx="-398.1011"
+       fy="56.514931"
+       r="134.49673" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.189264"
+     inkscape:cx="482.34125"
+     inkscape:cy="317.84363"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg3990"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata3995">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(557.15729,459.05179)"
+     sodipodi:insensitive="true">
+    <image
+       y="-459.05179"
+       x="-557.15729"
+       id="image4195"
+       xlink:href="file:///home/weld/repos/git/gnome-design-sandbox/overview.png"
+       height="1050"
+       width="1680" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.97186506;stroke-miterlimit:3.5;stroke-opacity:0;stroke-dasharray:none;display:inline;filter:url(#filter5017)"
+       id="rect4971"
+       width="41.78109"
+       height="1255.7142"
+       x="-140.82912"
+       y="-561.90894"
+       transform="matrix(1.058737,0,0,1,14.923006,0)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#image4195"
+       id="use4969"
+       transform="translate(458.60926,0)"
+       width="1680"
+       height="1050"
+       style="stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none" />
+    <image
+       style="display:inline"
+       y="-459.05179"
+       x="-98.548027"
+       id="image4966"
+       xlink:href="file:///home/weld/repos/git/gnome-design-sandbox/toten-running.png"
+       height="1050"
+       width="90" />
+    <rect
+       transform="matrix(1.058737,0,0,1,525.62592,32.297418)"
+       y="-561.90894"
+       x="-140.82912"
+       height="1255.7142"
+       width="41.78109"
+       id="rect7103"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.97186506;stroke-miterlimit:3.5;stroke-opacity:0;stroke-dasharray:none;display:inline;filter:url(#filter5017)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.97186506;stroke-miterlimit:3.5;stroke-opacity:0;stroke-dasharray:none;display:inline;filter:url(#filter5017)"
+       id="rect7381"
+       width="41.78109"
+       height="1255.7142"
+       x="-140.82912"
+       y="-561.90894"
+       transform="matrix(0,1.058737,-1,0,57.400174,301.70821)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="tooltips"
+     style="display:inline"
+     transform="translate(557.15729,459.05179)"
+     sodipodi:insensitive="true">
+    <path
+       style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m -1.829277,-345.01083 c -3.7215,0 -6.71875,2.99725 -6.71875,6.71875 l 0,11.0625 -13.875,15.625 13.875,15.625 0,76.98365 c 0,3.7215 2.99725,6.71875 6.71875,6.71875 l 295.843757,0 c 3.89641,0 6.71875,-2.99725 6.71875,-6.71875 l 0,-119.29615 c 0,-3.7215 -2.99725,-6.71875 -6.71875,-6.71875 z"
+       id="rect4034-6-6-2-27"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sscccsssssss" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4018-1-2"
+       y="-255.99403"
+       x="8.2645779"
+       style="font-size:16.09589958px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="-255.99403"
+         x="8.2645779"
+         id="tspan4020-3-6"
+         sodipodi:role="line">Bug 983726 - Can't search from ...</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4018-8-2-6"
+       y="-286.62976"
+       x="9.6476955"
+       style="font-size:16.09589958px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="-286.62976"
+         x="9.6476955"
+         id="tspan4020-2-7-9"
+         sodipodi:role="line">Gnome Shell News - World in th ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="8.5643215"
+       y="-223.98343"
+       id="text4704-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4706-2"
+         x="8.5643215"
+         y="-223.98343"
+         style="font-size:16.09589958px">Keep in Dash</tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 274.64729,-231.39211 4.63406,7.16172 8.00428,-12.4277"
+       id="path4064"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:22.51838112px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="271.53247"
+       y="-319.94797"
+       id="text3096"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3098"
+         x="271.53247"
+         y="-319.94797">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.09589958px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="9.5663967"
+       y="-321.00635"
+       id="text4036-6-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4038-3-4"
+         x="9.5663967"
+         y="-321.00635">Firefox</tspan></text>
+    <g
+       id="g5029"
+       transform="translate(-459.99093,9.0836487)">
+      <path
+         style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:none;display:inline"
+         d="m -8.548027,-328.81474 74.55764,0 c 5.263,0 9.500002,4.23701 9.500002,9.50001 l 0,12.25003 c 0,5.263 -4.237002,9.5 -9.500002,9.5 l -74.55764,0 -13.875,-15.625 z"
+         id="path4233"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssssccc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4235"
+         y="-307.97623"
+         x="4.7398329"
+         style="font-size:16.09589958px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan5025"
+           y="-307.97623"
+           x="4.7398329"
+           sodipodi:role="line">Firefox</tspan></text>
+    </g>
+    <path
+       style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m -460.82021,-88.37945 c -3.7215,0 -6.71875,2.99725 -6.71875,6.71875 l 0,11.0625 -13.875,15.625 13.875,15.625001 0,15.19794 c 0,3.7215 2.99725,6.71875 6.71875,6.71875 l 151.02489,0 c 3.89641,0 6.71875,-2.99725 6.71875,-6.71875 l 0,-57.510441 c 0,-3.7215 -2.99725,-6.71875 -6.71875,-6.71875 z"
+       id="path4828"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sscccsssssss" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="-450.42661"
+       y="-30.780626"
+       id="text4838"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4840"
+         x="-450.42661"
+         y="-30.780626"
+         style="font-size:16.09589958px">Keep in Dash</tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m -327.66343,-36.189299 4.63406,7.16172 8.00428,-12.4277"
+       id="path4844"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:22.51838112px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="-330.77826"
+       y="-63.316551"
+       id="text4846"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4848"
+         x="-330.77826"
+         y="-63.316551">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.09589958px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="-449.42453"
+       y="-64.374962"
+       id="text4850"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4852"
+         x="-449.42453"
+         y="-64.374962">Video Player</tspan></text>
+    <g
+       id="g5067"
+       transform="translate(-46.427538,128.2973)">
+      <g
+         transform="translate(-7.1553717,-80.843391)"
+         id="g5051">
+        <path
+           style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#ffffff;display:inline"
+           d="m -650.22011,-194.4007 58.49987,0 c 5.263,0 9.5,4.23701 9.5,9.50001 l 0,12.25003 c 0,5.263 -4.237,9.5 -9.5,9.5 l -58.49987,0 -13.875,-15.625 z"
+           id="rect4034-6-6-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cssssccc" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4145-1-6"
+           y="-173.56219"
+           x="-641.87402"
+           style="font-size:16.09589958px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="-173.56219"
+             x="-641.87402"
+             id="tspan4147-4-4"
+             sodipodi:role="line">Pidgin</tspan></text>
+      </g>
+      <path
+         style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+         d="m -892.43812,-429.24241 c -3.7215,0 -6.71875,2.99725 -6.71875,6.71875 l 0,11.0625 -13.875,15.625 13.875,15.625 0,76.98365 c 0,3.7215 2.99725,6.71875 6.71875,6.71875 l 295.84376,0 c 3.89641,0 6.71875,-2.99725 6.71875,-6.71875 l 0,-119.29615 c 0,-3.7215 -2.99725,-6.71875 -6.71875,-6.71875 z"
+         id="path4747"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sscccsssssss" />
+      <g
+         transform="translate(-3.0278817,249.69702)"
+         id="g5062">
+        <path
+           style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+           d="m -647.22616,-472.42644 c -3.7215,0 -6.71875,2.99725 -6.71875,6.71875 l 0,10.95729 c 0,3.7215 2.99725,6.71875 6.71875,6.71875 l 53.65968,0 c 3.89641,0 6.71875,-2.99725 6.71875,-6.71875 l 0,-10.95729 c 0,-3.7215 -2.99725,-6.71875 -6.71875,-6.71875 z"
+           id="path4749"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sccssssss" />
+        <text
+           xml:space="preserve"
+           style="font-size:16.09589958px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+           x="-647.56604"
+           y="-454.22845"
+           id="text4036-6-7-1"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4038-3-4-3"
+             x="-647.56604"
+             y="-454.22845">Firefox</tspan></text>
+      </g>
+    </g>
+    <path
+       sodipodi:nodetypes="sscccsssssss"
+       inkscape:connector-curvature="0"
+       id="path7305"
+       d="m -1.2110339,-88.37945 c -3.7215,0 -6.71875,2.99725 -6.71875,6.71875 l 0,11.0625 -13.8750001,15.625 13.8750001,15.625001 0,15.19794 c 0,3.7215 2.99725,6.71875 6.71875,6.71875 l 295.8437639,0 c 3.89641,0 6.71875,-2.99725 6.71875,-6.71875 l 0,-57.510441 c 0,-3.7215 -2.99725,-6.71875 -6.71875,-6.71875 z"
+       style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;display:inline" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text7307"
+       y="-30.780626"
+       x="9.1825714"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:16.09589958px"
+         y="-30.780626"
+         x="9.1825714"
+         id="tspan7309"
+         sodipodi:role="line">Keep in Dash</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path7313"
+       d="m 275.26554,-36.189299 4.63406,7.16172 8.00428,-12.4277"
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text7319"
+       y="-64.374962"
+       x="10.184646"
+       style="font-size:16.09589958px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="-64.374962"
+         x="10.184646"
+         id="tspan7321"
+         sodipodi:role="line">Video Player - Hollera di dudel d ...</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path7311"
+       d="m 10.005736,-53.55914 274.029724,0"
+       style="fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient7323);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient7404);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m -457.32571,-53.55914 139.49748,0"
+       id="path7402"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient7408);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 10.005737,-244.68573 274.029723,0"
+       id="path7406"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7410"
+       d="m 10.005737,-308.91683 274.029723,0"
+       style="fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient7412);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="description"
+     transform="translate(-2.4023439e-6,-1.6699219e-6)"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-size:18.61412048px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="569.10565"
+       y="513.50085"
+       id="text7014"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7016"
+         x="569.10565"
+         y="513.50085" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7018"
+       y="280.6474"
+       x="563.71985"
+       style="font-size:18.61412048px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="280.6474"
+         x="563.71985"
+         id="tspan7020"
+         sodipodi:role="line">Firefox, running</tspan><tspan
+         y="303.91504"
+         x="563.71985"
+         sodipodi:role="line"
+         id="tspan7383">can open new window  (+)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.61412048px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="564.80145"
+       y="470.88647"
+       id="text7035-6-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="564.80145"
+         y="470.88647"
+         id="tspan7039-5-4">Totem, running</tspan><tspan
+         sodipodi:role="line"
+         x="564.80145"
+         y="494.15411"
+         id="tspan7369">can't open new window (no +)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.61412048px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="90.619873"
+       y="470.89276"
+       id="text7035-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="90.619873"
+         y="470.89276"
+         id="tspan7039-5">Totem, not running</tspan><tspan
+         sodipodi:role="line"
+         x="90.619873"
+         y="494.1604"
+         id="tspan7385" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.61412048px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="99.258018"
+       y="194.76888"
+       id="text7035"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="99.258018"
+         y="194.76888"
+         id="tspan7371">tooltip</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="frame"
+     transform="translate(-2.4023439e-6,-1.6699219e-6)"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ff0000;fill-opacity:0.20476194;stroke:none;display:inline"
+       id="rect7375"
+       width="964.6825"
+       height="635.68726"
+       x="2.4023439e-06"
+       y="1.6699219e-06"
+       inkscape:export-filename="/home/weld/repos/git/gnome-design-sandbox/dash-tooltips-and-popups.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
